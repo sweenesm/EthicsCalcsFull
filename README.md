@@ -13,8 +13,9 @@ for instance, InputTrolley1.txt. These files are included in this repot.
 
 The Python version used was 3.9.13.
 
-For more information on these ethics calculations, check back here for a
-link to a write up about them.
+For more information on these ethics calculations, see
+https://www.lesswrong.com/posts/wwioAJHTeaGqBvtjd/update-on-developing-an-ethics-calculator-to-align-an-agi-to
+for a write up about them.
 
 How You Can Help ================ Please follow the X account
 \@DishonorP (https://twitter.com/DishonorP), and like and repost its
