@@ -1,0 +1,55 @@
+1. Increasing/decreasing existential risks
+2. Someone dying, or increasing/decreasing its probability
+3. Non-freely chosen physical pain for a person, or increasing/decreasing its probability
+4. Loss of function for a human, or increasing/decreasing its probability
+5. Bringing life into the world with insufficient resources/lack of intent to support it or increasing/decreasing the probability of this
+6. Bringing life into the world with sufficient resources/intent to support it or increasing/decreasing the probability of this
+7. Extinction of animal or plant species or increasing/decreasing its probability
+8. Threat (by someone) of physical violence or emotional pain, or increasing/decreasing its probability
+9. Emotional abuse of a child or increasing/decreasing its probability
+10. Emotional pain or increasing/decreasing its probability
+11. Words or actions that needlessly hurt someone’s reputation, or increasing/decreasing their probabilities
+12. Words or actions that deservedly improve someone’s reputation, or increasing/decreasing their probabilities
+13. Damaging/destroying/defacing property or increasing/decreasing its probability
+14. Repairing/beautifying property or increasing/decreasing its probability
+15. Returning something stolen or increasing/decreasing its probability
+16. Freely chosen anti-survival (masochistic) physical pain or increasing/decreasing its probability
+17. Anti-survival (sadistic) pleasure or increasing/decreasing its probability
+18. Going against one’s conscience, or increasing/decreasing its probability
+19. Denying responsibility, lowering one’s self-esteem, or increasing/decreasing its probability
+20. Taking responsibility, building one’s self-esteem, or increasing/decreasing its probability
+21. Thinking through the ethics of one’s decisions in advance or increasing/decreasing the probability of this
+22. Actively going against justice being upheld (denying due process), or increasing/decreasing its probability
+23. Upholding justice (holding people responsible), or increasing/decreasing its probability
+24. An animal dying or increasing/decreasing its probability
+25. Physical pain of animals or increasing/decreasing its probability
+26. Words or actions that encourage violence, or increasing/decreasing their probabilities
+27. Words or actions that inspire non-violence, discourage violence, or increasing/decreasing their probabilities
+28. Words or actions that encourage stealing, or increasing/decreasing their probabilities
+29. Words or actions that inspire earning what you get, discourage stealing, or increasing/decreasing their probabilities
+30. Words that spread false info (including misrepresenting the hierarchy of value), or increasing/decreasing their probabilities
+31. Words that correct false info (including accurately representing the hierarchy of value), or increasing/decreasing their probabilities
+32. Actions that misrepresent the hierarchy of value, or increasing/decreasing their probabilities
+33. Actions that accurately represent the hierarchy of value, or increasing/decreasing their probabilities
+34. Words or actions that discourage empathy, creativity, curiosity, critical thinking, honest effort and/or responsibility, or increasing/decreasing their probabilities
+35. Words or actions that encourage empathy, creativity, curiosity, critical thinking, honest effort, and/or responsibility, or increasing/decreasing their probabilities
+36. A plant dying, or increasing/decreasing its probability
+37. Errors of thought, or increasing/decreasing their probabilities
+38. Practicing critical thinking, learning, or developing skills to increase one’s options, or increasing/decreasing its probability
+39. Discouraging human interaction, community, or increasing/decreasing its probability
+40. Promoting human interaction, community, or increasing/decreasing its probability
+41. Decreasing economic activity, or increasing/decreasing its probability
+42. Increasing economic activity, paying people to do work, or increasing/decreasing its probability
+43. Reducing options to net build value, or increasing/decreasing its probability
+44. Increasing options to net build value, or increasing/decreasing its probability
+45. Putting in effort towards a net destructive goal, or increasing/decreasing its probability
+46. Putting in effort towards a net non-destructive goal, or increasing/decreasing its probability
+47. Setting a bad example, or increasing/decreasing its probability
+48. Setting a good example and inspiring others, or increasing/decreasing its probability
+49. Being creative in art or science, or increasing/decreasing its probability
+50. Giving yourself or someone else pleasure/new experiences that are welcomed, or increasing/decreasing its probability
+51. Cooperating with others, or increasing/decreasing its probability
+52. Helping others, or increasing/decreasing its probability
+53. Violating right to life, or increasing/decreasing its probability
+54. Violating right to body integrity, or increasing/decreasing its probability
+55. Violating right to property, or increasing/decreasing its probability
